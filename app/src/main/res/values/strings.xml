@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">School ERP</string>
+    <string name="hi_sayem">Hi Sayem</string>
+    <string name="class_xi_b_roll_no_04">Class XI-B | Roll no: 04</string>
+    <string name="_2021_2022">2021-2022</string>
+    <string name="star_pattern">Star Pattern</string>
+    <string name="_80_93">80.93%</string>
+    <string name="attendance">Attendance</string>
+    <string name="_6400">$640</string>
+    <string name="fees_due">Fees Due</string>
+    <string name="school_holiday">School Holiday</string>
+    <string name="assignment">Assignment</string>
+    <string name="time_table">Time Table</string>
+    <string name="result">Result</string>
+    <string name="data_sheet">Data Sheet</string>
+    <string name="play_quiz">Play Quiz</string>
+    <string name="ask_doubts">Ask Doubts</string>
+    <string name="school_gallery">School Gallery</string>
+    <string name="leave_application">Leave Application</string>
+    <string name="logout">Logout</string>
+    <string name="change_password">Change Password</string>
+    <string name="events">Events</string>
+    <string name="hi_student">Hi Student</string>
+    <string name="sign_in_to_continue">Sign in to continue</string>
+    <string name="logo">Logo</string>
+    <string name="illustration">Illustration</string>
+    <string name="email_address">Email Address</string>
+    <string name="password">Password</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="right_arrow">Right Arrow</string>
+
+</resources>
